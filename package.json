@@ -1,0 +1,16 @@
+{
+  "name": "websocket-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "websocket": "node websocket.js",
+    "listen": "node listen.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.11.0"
+  }
+}
